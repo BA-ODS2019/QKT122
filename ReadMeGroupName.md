@@ -1,7 +1,7 @@
 # QKT122
 Gruppe: Spyder crawlers
 
-Tina Hegelund Hyldahl Martin - HSR607  
-Mikkel Birk Nielsen - FXK415
-Kasper Senika Larsen - PHM536
-Christian Runge - QKT122
+Tina Hegelund Hyldahl Martin - HSR607  \n
+Mikkel Birk Nielsen - FXK415  \n
+Kasper Senika Larsen - PHM536  \n
+Christian Runge - QKT122  \n
